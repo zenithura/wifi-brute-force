@@ -18,6 +18,7 @@ Bu repozitor, belirli bir WiFi ağının şifresini brute force yöntemiyle kır
 1. **ZIP Dosyasını İndirip Açın**  
    Bu repoyu ZIP dosyası olarak indirin ve bilgisayarınızdaki `Desktop` klasörüne çıkarın.
 
+   ![Bağlantıyı Kesme](images/zip.png) 
 2. **İnternet Bağlantısını Kesin**  
    Brute force işlemini gerçekleştirmeden önce bağlı olduğunuz internet bağlantısını kesmelisiniz. 
 
