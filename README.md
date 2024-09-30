@@ -18,30 +18,25 @@ Bu repozitor, belirli bir WiFi ağının şifresini brute force yöntemiyle kır
 1. **ZIP Dosyasını İndirip Açın**  
    Bu repoyu ZIP dosyası olarak indirin ve bilgisayarınızdaki `Desktop` klasörüne çıkarın.
 
-   ![ZIP Dosyası Açma](path/to/your/image1.jpg)  
-   *(ZIP dosyasını çıkarma ile ilgili bir video veya fotoğraf ekleyin.)*
-
 2. **İnternet Bağlantısını Kesin**  
    Brute force işlemini gerçekleştirmeden önce bağlı olduğunuz internet bağlantısını kesmelisiniz. 
 
-   ![Bağlantıyı Kesme](path/to/your/image2.jpg)  
-   *(Bağlantıyı kesme ile ilgili bir video veya fotoğraf ekleyin.)*
+   ![Bağlantıyı Kesme](images/wifi_connection.png)  
+   
 
 3. **SSID Değişikliği**  
    `main.bat` dosyasını açın ve brute force etmek istediğiniz WiFi ağının SSID’sini değiştirdiğinizden emin olun.
-
-4. **Rasgele Rakam Değişikliği**  
+   ![Bağlantıyı Kesme](images/ssid.png)
+   
+5. **Rasgele Rakam Değişikliği**  
    Aşağıdaki satırdaki rasgele bir rakamı seçin ve onun yerine başka bir rakam yazın. Bu işlemi her çalıştırmadan önce yapmalısınız.
-
+   ![Bağlantıyı Kesme](images/random.png)  
    ```xml
    <randomizationSeed>519099394</randomizationSeed>
    ```
 
-5. **Brute Force İşlemini Başlatma**  
-   Her şey hazır olduğunda, `main.bat` dosyasını çalıştırarak brute force işlemini başlatın. 
-
-   ![main.bat Dosyasını Çalıştırma](path/to/your/image3.jpg)  
-   *(main.bat dosyasının nasıl çalıştırılacağı ile ilgili bir video veya fotoğraf ekleyin.)*
+6. **Brute Force İşlemini Başlatma**  
+   Her şey hazır olduğunda, antivirus programlarını bir müddetlik dayandırın sonra `main.bat` dosyasını tıkla ve brute force işlemini başlatın. 
 
 ## Uyarılar
 
