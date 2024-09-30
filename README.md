@@ -22,7 +22,7 @@ Bu repozitor, belirli bir WiFi ağının şifresini brute force yöntemiyle kır
 2. **İnternet Bağlantısını Kesin**  
    Brute force işlemini gerçekleştirmeden önce bağlı olduğunuz internet bağlantısını kesmelisiniz. 
 
-   ![Bağlantıyı Kesme](images/wifi_connection.png)  
+   ![Bağlantıyı Kesme](images/wifi.png)  
    
 
 3. **SSID Değişikliği**  
